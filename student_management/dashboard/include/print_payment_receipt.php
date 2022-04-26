@@ -1,0 +1,1 @@
+<h2>Print Payment Receipt</h2>

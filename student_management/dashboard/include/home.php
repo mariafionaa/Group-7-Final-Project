@@ -1,0 +1,1 @@
+<h2>Welcome, <?php $role == "Admin" ?  print($admin_name) : print($name); ?></h2>
